@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"EngineVersion": "5.8.0",
+	"FriendlyName": "SquadFormation — AI Group Movement & Formation Steering",
+	"Description": "A C++ formation-movement and group-steering framework: moves AI squads and companions in coherent, obstacle-aware formations on top of the Navigation System, with formation shapes, slot assignment and navmesh-projected group moves.",
+	"Category": "Code Plugins",
+	"CreatedBy": "Silvan Teufel — Teufel-Engineering.com",
+	"CreatedByURL": "https://teufel-engineering.com",
+	"DocsURL": "https://wiki.teufel-engineering.com/en/SquadFormation",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:info@teufel-engineering.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SquadFormation",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": []
+}
