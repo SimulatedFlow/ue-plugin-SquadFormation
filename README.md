@@ -4,7 +4,7 @@ A C++ formation-movement and group-steering framework that moves AI squads and c
 
 Supports **Unreal Engine 5.8**. Full C++ source included.
 
-See `Docs/DOCUMENTATION.md` for installation, quick start and the full API, and `Docs/Fab-Store-Description.md` for the store listing.
+Documentation: <https://wiki.teufel-engineering.com/en/SquadFormation> — installation, quick start and the API. `Docs/Fab-Store-Description.md` holds the store listing text.
 
 - **Support:** teufelsilvan@gmail.com
 - **Version:** 1.0.0

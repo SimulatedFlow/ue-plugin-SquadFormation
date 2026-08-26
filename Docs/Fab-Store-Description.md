@@ -33,7 +33,7 @@ Unreal's Navigation System moves agents one at a time: crowd avoidance (RVO/Deto
 | **Engine version** | Unreal Engine 5.8 |
 | **Type** | C++ Code Plugin (full source included) |
 | **Modules** | SquadFormation (Runtime) |
-| **Runtime platforms** | Win64, Mac, Linux |
+| **Runtime platforms** | Win64 |
 | **Engine module deps** | Core, CoreUObject, Engine, NavigationSystem, AIModule |
 | **Content** | Demo map + example Blueprints (BP_SquadManager, BP_SquadAgent); Blueprint-exposed API, no mandatory content |
 | **Third-party libs** | None |
